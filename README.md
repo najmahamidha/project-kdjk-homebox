@@ -60,3 +60,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ## Referensi
 
 Cantumkan tiap sumber informasi yang anda pakai.
+
+## Kesimpulan 
+Nanti bagi tugas di readme
